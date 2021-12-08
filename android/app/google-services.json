@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "159921647748",
+    "firebase_url": "https://loginbloc-d1fb9-default-rtdb.firebaseio.com",
+    "project_id": "loginbloc-d1fb9",
+    "storage_bucket": "loginbloc-d1fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159921647748:android:06bf941751f7c9dc3212d1",
+        "android_client_info": {
+          "package_name": "com.example.login_bloc_firbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159921647748-u4ig1rmpe7lhsqkiitmvn1rsar3e9nnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_bloc_firbase",
+            "certificate_hash": "c256c47ee21b9c7656d1c47c71ca5d5b431d1331"
+          }
+        },
+        {
+          "client_id": "159921647748-ifhu5pjb3in6cgplbl96lrad2eftrlfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCfaHGr7lzvBYgHn5wEFVpxCK2lNjVe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159921647748-ifhu5pjb3in6cgplbl96lrad2eftrlfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
